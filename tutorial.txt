@@ -1,0 +1,20 @@
+1. create two folders client and server 
+2. crete react file in the client folder using npx create-react-app .
+3. create server folder for express and for it we will use the npm init and the npm install express
+4. write the boiler plate code of the express to this so that we can use the basic express
+5. add type: module in the package.json to use the statement import express from express
+6. add the npm sun command in the folder
+
+//mongoose running
+1. making the connection import the mongoose 
+2. them use the await return rtpe henece waitin we can use try catch or at its plce use if then
+
+//setup the react form 
+1. Delete all the un required files
+2. create a form in which we can enter data
+3. create a function in form on Submit which can track events and use preventDefault so that it dosent refreshes itself
+4. to store data we are going to create states
+5. now after that create on Change fields in every input and call a function for it and set its calue to form.value
+6. now after every chaneg update the setState using the setForm method by ...form and e.target.name(equal to its var in form state): e.target.value
+
+//to connect the application we are going to use the fetch function in the webite
